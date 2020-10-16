@@ -12,7 +12,7 @@
 ### Spotify Playlist 🎧
 
 [<img  align="left"  src="https://mosaic.scdn.co/60/ab67616d0000b2731e6996455bedde98bee4d8f3ab67616d0000b2739bdba17352524fb9753a854fab67616d0000b273aa23541264bf8e3de8d9ad2aab67616d0000b273d924507819a6184ba30b4b33">][spotify]
-
+<br />
 ### Connect with me:
 
 [<img align="left" alt="lieptl.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
