@@ -9,9 +9,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and going outside with friends
 
-### Spotify Playing 🎧
+### Spotify Playlist 🎧
 
-<img src="https://open.spotify.com/embed/playlist/1aupmakx4lm0Qzj1EfWAQP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+[<img  align="left"  src="https://mosaic.scdn.co/60/ab67616d0000b2731e6996455bedde98bee4d8f3ab67616d0000b2739bdba17352524fb9753a854fab67616d0000b273aa23541264bf8e3de8d9ad2aab67616d0000b273d924507819a6184ba30b4b33">][spotify]
 
 ### Connect with me:
 
@@ -64,3 +64,4 @@
 [twitter]: https://twitter.com/foxakox
 [youtube]: https://youtube.com/BZEVA
 [instagram]: https://instagram.com/_li_sak_
+[spotify]: https://open.spotify.com/playlist/1aupmakx4lm0Qzj1EfWAQP?si=AC14MykkRBS3QHSc37K5Eg
