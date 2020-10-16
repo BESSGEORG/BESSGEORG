@@ -58,7 +58,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="lipetl's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BESSGEORG&show_icons=true&hide_border=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BESSGEORG&layout=compact)](https://github.com/BESSGEORG/github-readme-stats)
+  <img align="left" alt="lipetl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BESSGEORG&layout=compact" />
 </details>
 
 [website]: https://lipetl.eu
