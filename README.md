@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lišák Spotify Playing" width="350" />](https://open.spotify.com/user/qv7f9r1laajxkn69dw2qaher8?si=X-m_NoO7TGmr2bb35KIN8g)
+<iframe src="https://open.spotify.com/embed/playlist/1aupmakx4lm0Qzj1EfWAQP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Connect with me:
 
