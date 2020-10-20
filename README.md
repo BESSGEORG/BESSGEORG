@@ -5,7 +5,7 @@
 ## I'm a Student, Boxer and Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with some other developers
+- 👯 I’m currenty working under [PvPCraft][pvpc]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and going outside with friends
 
@@ -57,6 +57,7 @@
   <img align="left" alt="lipetl's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BESSGEORG&show_icons=true&hide_border=true" />
 </details>
 
+[pvpc]: https://pvpcraft.cz
 [website]: https://lipetl.eu
 [twitter]: https://twitter.com/foxakox
 [youtube]: https://youtube.com/BZEVA
