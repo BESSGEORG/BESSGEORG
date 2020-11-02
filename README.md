@@ -5,7 +5,7 @@
 ## I'm a Student, Boxer and Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m currenty working under [PvPCraft][pvpc]
+- 👯 I’m currently working under [PvPCraft][pvpc]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and going outside with friends
 
