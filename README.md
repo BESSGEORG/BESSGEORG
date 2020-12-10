@@ -1,4 +1,4 @@
-### Hi there, I'm Petr Liška - aka [BESSGEORG or LIPETL][website] 👋
+### Hi there, I'm Petr Liška - aka [Lisacek or LIPETL][website] 👋
 
 [![Website](https://img.shields.io/website?label=LIPETL.eu&style=for-the-badge&url=https%3A%2F%2Flipetl.eu)](https://lipetl.eu)
 
